@@ -6,3 +6,4 @@ json.array! @scores do |score|
   json.score score.value
   json.created_at score.created_at
 end
+
